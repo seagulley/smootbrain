@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @smootbrain
 - 👀 I’m interested in game development. My other interests include digital art, music production, snowboarding, and skateboarding!
-- 🌱 I’m currently learning Javascript, HTML, and CSS.
 - 📫 You can reach me on instagram @smootbrain or email me at kallie1@ualberta.ca.
 
 <!---
